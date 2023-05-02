@@ -1,0 +1,28 @@
+<html>
+    <table border="1">
+
+        <tr>
+            <th>Data</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autores</th>
+        </tr>
+
+        <tr>
+            <td>Sexta-Feira<br>29/04</td>
+            <td>1.0</td>
+            <td>Continuação e revisão dos requisitos.</td>
+            <td>Ana Clara, Breno, Eduardo e Maria Eduarda</td>
+        </tr>
+
+        <tr>
+            <td>Terça-Feira<br>02/05</td>
+            <td>2.0</td>
+            <td>Início da parte de programação do projeto.</td>
+            <td>Ana Clara, Breno, Eduardo e Maria Eduarda</td>
+        </tr>
+
+
+
+    </table>
+</html>
