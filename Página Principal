@@ -1,10 +1,13 @@
-<html>
+<!DOCTYPE html>
+    <img src="logo.png" width="300" height="100"> 
+    <br><br><br>
     <head>
         <title>Eng.Software</title>
         <h1>Software de Gestão Acadêmica</h1>
+        <br><br>
     </head>
     <body>
-        <img>
+        
     <ul>
         <h3>Integrantes do Grupo:</h3>
         <li><h5>Maria Eduarda Marangon</h5></li>
@@ -15,9 +18,4 @@
 
     </body>
 
-
-
-
-
-    
 </html>
