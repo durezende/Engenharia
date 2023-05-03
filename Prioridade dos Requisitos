@@ -15,21 +15,22 @@
             ou "opcional". Além disso, os requisitos podem ser classificados em diferentes
             níveis de prioridade, dependendo da sua importância para o sistema e dos seus
             impactos no desempenho ou na qualidade.</p>
-            A principal diferença entre um requisito essencial e um importante está na
+            <p>A principal diferença entre um requisito essencial e um importante está na
             sua prioridade no projeto. Um requisito essencial, também conhecido como
             "must have" ou "deve ter", é um requisito obrigatório e fundamental para que o
             sistema funcione corretamente e atenda às necessidades dos usuários. Sem ele,
-            o sistema não poderá ser considerado completo ou funcional.
-            Por outro lado, um requisito importante, também conhecido como "should
+            o sistema não poderá ser considerado completo ou funcional.</p>
+            <p>Por outro lado, um requisito importante, também conhecido como "should
             have" ou "deveria ter", é um requisito que, embora não seja obrigatório, é
             importante para garantir um bom desempenho e usabilidade do sistema. Esses
             requisitos são necessários para melhorar a experiência do usuário ou aumentar
-            a eficiência do sistema, mas não são críticos para a sua operação básica.
-            A definição da prioridade dos requisitos no documento de requisitos ajuda
+            a eficiência do sistema, mas não são críticos para a sua operação básica.</p>
+            <p>A definição da prioridade dos requisitos no documento de requisitos ajuda
             a equipe do projeto a gerenciar o escopo do projeto e tomar decisões importantes
             sobre o que deve ser implementado primeiro e o que pode ser adiado ou
             descartado. Os requisitos essenciais devem ser implementados primeiro,
-            enquanto os requisitos importantes devem ser priorizados logo em seguida.<br><br><br>
+            enquanto os requisitos importantes devem ser priorizados logo em seguida.</p>
+            <br><br><br>
             <strong>Requisitos essenciais:</strong> é o requisito sem o qual o sistema não entra em
             funcionamento. Requisitos essenciais são requisitos imprescindíveis, que têm
             que ser implementados impreterivelmente.<br><br><br>
